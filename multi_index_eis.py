@@ -23,6 +23,3 @@ for experiment_name in unique_names:
     print(experiment_name)
     print(reduced_experiment_df)
     # from here the access is normal :)
-
-#eis_df.set_index(eis_df.iloc[0].index)
-#print(eis_df.index.values)
